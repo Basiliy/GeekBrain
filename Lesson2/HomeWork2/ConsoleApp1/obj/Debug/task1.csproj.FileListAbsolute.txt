@@ -1,0 +1,7 @@
+C:\Workspaces\GB\lesson 2\HomeWork2\ConsoleApp1\bin\Debug\task1.exe.config
+C:\Workspaces\GB\lesson 2\HomeWork2\ConsoleApp1\bin\Debug\task1.exe
+C:\Workspaces\GB\lesson 2\HomeWork2\ConsoleApp1\bin\Debug\task1.pdb
+C:\Workspaces\GB\lesson 2\HomeWork2\ConsoleApp1\obj\Debug\task1.csproj.SuggestedBindingRedirects.cache
+C:\Workspaces\GB\lesson 2\HomeWork2\ConsoleApp1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Workspaces\GB\lesson 2\HomeWork2\ConsoleApp1\obj\Debug\task1.exe
+C:\Workspaces\GB\lesson 2\HomeWork2\ConsoleApp1\obj\Debug\task1.pdb

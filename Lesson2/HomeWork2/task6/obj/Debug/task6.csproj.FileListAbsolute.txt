@@ -1,0 +1,8 @@
+C:\Workspaces\GB\lesson 2\HomeWork2\task6\bin\Debug\task6.exe.config
+C:\Workspaces\GB\lesson 2\HomeWork2\task6\bin\Debug\task6.exe
+C:\Workspaces\GB\lesson 2\HomeWork2\task6\bin\Debug\task6.pdb
+C:\Workspaces\GB\lesson 2\HomeWork2\task6\obj\Debug\task6.csproj.AssemblyReference.cache
+C:\Workspaces\GB\lesson 2\HomeWork2\task6\obj\Debug\task6.csproj.SuggestedBindingRedirects.cache
+C:\Workspaces\GB\lesson 2\HomeWork2\task6\obj\Debug\task6.csproj.CoreCompileInputs.cache
+C:\Workspaces\GB\lesson 2\HomeWork2\task6\obj\Debug\task6.exe
+C:\Workspaces\GB\lesson 2\HomeWork2\task6\obj\Debug\task6.pdb
